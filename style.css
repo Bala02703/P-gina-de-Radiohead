@@ -24,7 +24,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
-
+    zoom: 0.6;
 }
 a{
     text-decoration: none;
@@ -199,4 +199,5 @@ footer{
     margin: 100px 0 0 0;
     border-radius: 0px;
     border: 25px solid #FF0000;
+
 }
