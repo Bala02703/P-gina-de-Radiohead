@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    border-radius: 20px;
+    text-align: center;
+}
+body{
+    margin: 15px 20px;
+    padding: 10px 5%;
+
+    background-color: white;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    font-family: "Bakbak One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+    gap: 25px;
+}
+header > img{
+    /*position: absolute;*/
+    
+    width: 300px;
+    height: 169px;
+    /*left: 0px;*/
+    /*top: 0px;*/
+}
+header{
+    margin: 15px 20px;
+    padding: 10px 5%;
+    display: inline-flex;
+    align-items: center;
+    background: #000000;
+    border: 1px solid #000000;
+    position: fixed;
+    top: 0px;
+    width: 88%;
+    left: 0px;
+}
+article{
+    margin: 100px 0 0 0;
+    padding: 10px 5%;
+    background: #000000;
+    border: 25px solid #FF0000;
+    border-radius: 35px;
+    align-items: center;
+}
+
+#jobs>*{
+    position: relative;
+    bottom: 100px;
+}
+.space{
+    margin: 15px 650px;
+}
+#space2{
+    margin-top: 50px;
+}
+#principal{
+    margin: 200px 20px;
+}
+.ordinary>p{
+    font-family: "Bakbak One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+}
+#jobs{
+    position: static;
+    
+    padding: 150px 0px;
+}
+h1{
+    position: static;
+    text-align: center;
+    z-index: 1;
+    color: white;
+}
+#ph{
+    font-family: "Darumadrop One", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: #FFFFFF;
+    position: relative;
+    left: 350px;
+    width: 197px;
+    height: 46px;
+}
+#tb{
+    /*position: absolute;*/
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    position: relative;
+    left: 680px;
+}
+#ok{
+    /*position: absolute;*/
+    font-family: 'Monofett';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FFFFFF;
+    position: relative;
+    left: 1025px;
+
+}
+#kid_a{
+    font-family: 'Dela Gothic One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: #FFFFFF;
+    position: relative;
+    top: 100px;
+    right: 225px;
+}
+#ac{
+    font-family: "Bakbak One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 180px;
+}
+#httf{
+    font-family: 'Charmonman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 61px;
+    color: #FFFFFF;
+    position: relative;
+    top: 100px;
+    left: 525px;
+}
+#i_r{
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    position: relative;
+    top: 200px;
+    right: 860px;
+}
+#tkol{
+    font-family: 'Bayon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 58px;
+    color: #FFFFFF;
+    position: relative;
+    top: 200px;
+    right: 530px;
+}
+#amsp{
+    font-family: 'IBM Plex Sans Thai';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 53px;
+    color: #FFFFFF;
+    position: relative;
+    top: 200px;
+    right: 225px;
+}
+footer{
+    background-color: black;
+    margin: 100px 0 0 0;
+    border-radius: 0px;
+    border: 25px solid #FF0000;
+}

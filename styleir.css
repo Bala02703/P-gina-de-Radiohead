@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    border-radius: 20px;
+    text-align: center;
+}
+body{
+    margin: 15px 20px;
+    padding: 10px 5%;
+
+    background-color: #022273;
+    background-image: url(high-quality-in-rainbows-desktop-background-v0-vvq3pmz35pea1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+header > img{
+    width: 300px;
+    height: 169px;
+}
+header{
+    margin: 15px 20px;
+    padding: 10px 5%;
+    display: inline-flex;
+    align-items: center;
+    background: #022273;
+    border: 10px solid #2360FB;
+    position: fixed;
+    top: 0px;
+    width: 88%;
+    left: 0px;
+}
+article{
+    margin: 100px 0 0 0;
+    padding: 10px 5%;
+    background: #022273;
+    border: 25px solid #2360FB;
+    border-radius: 35px;
+    align-items: center;
+}
+h1{
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    width: 197px;
+    height: 46px; 
+    text-align: center;
+    position: static;
+    z-index: 1;
+}
+.ordinary>p{
+    font-family: 'Carlito';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+}
+li{
+    font-family: 'Carlito';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-family: 'Carlito';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+    gap: 25px;
+}
+.space{
+    margin: 15px 650px;
+}
+#space2{
+    margin-top: 50px;
+    position: relative;
+
+}
+#principal{
+    margin: 200px 20px;
+}
+#secondary{
+    margin: 0 0 100px 0;
+}
+.task1{
+    position: relative;
+    width: auto;
+    height: 32px;
+    top: 50px;
+    margin: 0 0 100px 0;
+    bottom: auto;
+}
+footer{
+    background-color: #022273;
+    margin: 100px 0 0 0;
+    border-radius: 0px;
+    border: 25px solid #2360FB;
+}
+footer>h1{
+    position: relative;
+    width: auto;
+    height: 32px;
+    padding: 0 0 25px 0;
+    font-family: none;
+}
+footer>a{
+    top: 50px;
+}

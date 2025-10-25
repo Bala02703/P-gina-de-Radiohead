@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    border-radius: 20px;
+    text-align: center;
+}
+body{
+    margin: 15px 20px;
+    padding: 10px 5%;
+
+    background-color: white;
+    background-image: url(R.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+header > img{
+    width: 300px;
+    height: 169px;
+}
+header{
+    margin: 15px 20px;
+    padding: 10px 5%;
+    display: inline-flex;
+    align-items: center;
+    background: #000000;
+    border: 10px solid #FF0000;
+    position: fixed;
+    top: 0px;
+    width: 88%;
+    left: 0px;
+}
+article{
+    margin: 100px 0 0 0;
+    padding: 10px 5%;
+    background: #000000;
+    border: 25px solid #FF0000;
+    border-radius: 35px;
+    align-items: center;
+}
+h1{
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    width: 197px;
+    height: 46px; 
+    text-align: center;
+    position: static;
+    z-index: 1;
+}
+.ordinary>p{
+    font-family: 'Rubik Mono One';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+}
+li{
+    font-family: 'Rubik Mono One';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+    gap: 25px;
+}
+.space{
+    margin: 15px 650px;
+}
+#space2{
+    margin-top: 50px;
+    position: relative;
+
+}
+#principal{
+    margin: 200px 20px;
+}
+#secondary{
+    margin: 0 0 100px 0;
+}
+.third{
+    margin: 50px;
+}
+.task1{
+    position: relative;
+    width: auto;
+    height: 32px;
+    top: 50px;
+    margin: 0 0 100px 0;
+    bottom: auto;
+}
+footer{
+    background-color: black;
+    margin: 100px 0 0 0;
+    border-radius: 0px;
+    border: 25px solid #FF0000;
+}
+footer>h1{
+    position: relative;
+    width: auto;
+    height: 32px;
+    padding: 0 0 25px 0;
+    font-family: none;
+}
+footer>a{
+    top: 50px;
+}
