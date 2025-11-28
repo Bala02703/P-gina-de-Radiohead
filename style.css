@@ -34,6 +34,7 @@ a:link{
     font-style: normal;
     color: white;
     gap: 25px;
+}
 a:visited{
     text-decoration: none;
     font-family: "Bakbak One", sans-serif;
@@ -220,4 +221,5 @@ footer{
     border: 25px solid #FF0000;
 
 }
+
 
