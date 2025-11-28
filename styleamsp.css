@@ -76,7 +76,7 @@ li{
     font-style: normal;
     color: white;
 }
-a:{
+a{
     text-decoration: none;
     font-family: 'IBM Plex Sans Thai';
     font-weight: 400;
@@ -142,3 +142,4 @@ footer>a{
     top: 50px;
 
 }
+
