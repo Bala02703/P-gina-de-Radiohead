@@ -22,6 +22,11 @@ header > img{
     width: 300px;
     height: 169px;
 }
+header > img:hover{
+    transform: scale(180deg);
+    width: 300px;
+    height: 169px;
+}
 header{
     margin: 15px 20px;
     padding: 10px 5%;
@@ -61,6 +66,8 @@ h1{
     font-size: 30px;
     font-style: normal;
     color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 li{
     font-family: 'Charmonman';
@@ -76,6 +83,24 @@ a{
     font-size: 30px;
     font-style: normal;
     color: white;
+    gap: 25px;
+}
+a:link{
+    text-decoration: none;
+    font-family: 'Charmonman';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+    gap: 25px;
+}
+a:visited{
+    text-decoration: none;
+    font-family: 'Charmonman';
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: gray;
     gap: 25px;
 }
 .space{
@@ -115,4 +140,5 @@ footer>h1{
 }
 footer>a{
     top: 50px;
+
 }
