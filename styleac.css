@@ -76,6 +76,16 @@ li{
     font-style: normal;
     color: white;
 }
+
+a{
+    text-decoration: none;
+    font-family: "Bakbak One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+    gap: 25px;
+}
 a:link{
     text-decoration: none;
     font-family: "Bakbak One", sans-serif;
@@ -133,3 +143,4 @@ footer>a{
     top: 50px;
 
 }
+
