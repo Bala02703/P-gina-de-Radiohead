@@ -26,6 +26,15 @@ body{
     text-align: center;
     zoom: 0.6;
 }
+a{
+    text-decoration: none;
+    font-family: "Bakbak One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+    gap: 25px;
+}
 a:link{
     text-decoration: none;
     font-family: "Bakbak One", sans-serif;
@@ -221,5 +230,6 @@ footer{
     border: 25px solid #FF0000;
 
 }
+
 
 
